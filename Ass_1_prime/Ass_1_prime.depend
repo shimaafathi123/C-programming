@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697877250 source:d:\iti_material\c programming\labs\ass1\ass_1_prime\main.c
+	<stdio.h>
+	<stdlib.h>
+

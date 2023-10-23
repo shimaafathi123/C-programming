@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697790168 source:d:\iti_material\c programming\labs\ass1\ass1_comarison\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697940796 source:d:\iti_material\c programming\labs\ass2\ass2_from_lower_to_upper\main.c
+	<stdio.h>
+	<stdlib.h>
+

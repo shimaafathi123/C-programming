@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698062689 source:d:\iti_material\c programming\labs\ass2\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

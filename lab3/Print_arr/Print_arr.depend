@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697719215 source:d:\iti_material\c programming\labs\lab3\print_arr\main.c
+	<stdio.h>
+	<stdlib.h>
+

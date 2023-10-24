@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698151370 source:d:\iti_material\c programming\labs\ass2\texteditor\main.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
